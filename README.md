@@ -25,3 +25,6 @@ Put the GitHub link and video link inside your report, and submit the report.
 6. navigate to your folders/files and go to address *target/site/index.html* or *build-jar-...* files
 7. run binary calculator in terminal with command: *java -jar target/BinaryCalculator-1.0.0-jar-with-dependencies.jar*
 
+# Video Link (Youtube)
+****https://www.youtube.com/watch?v=AdhBPpCkFpk****
+
