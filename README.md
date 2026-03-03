@@ -11,10 +11,10 @@ This lab was about learning how to create a Maven project with Java and learn ab
 Put the GitHub link and video link inside your report, and submit the report.
 
 # Methods/Tests	Description
-**add(Binary a, Binary b):** Adds two binary numbers and returns a new Binary object
-**or(Binary a, Binary b):** Bitwise OR between two binary numbers
-**and(Binary a, Binary b):** Bitwise AND between two binary numbers
-**multiply(Binary a, Binary b):**	Multiplies two binary values
+**add(Binary a, Binary b):** Adds two binary numbers and returns a new Binary object  
+**or(Binary a, Binary b):** Bitwise OR between two binary numbers  
+**and(Binary a, Binary b):** Bitwise AND between two binary numbers  
+**multiply(Binary a, Binary b):**	Multiplies two binary values  
 
 # Project Build
 1. Install necessary Java and Maven versions and dependencies
@@ -24,3 +24,4 @@ Put the GitHub link and video link inside your report, and submit the report.
 5. run *mvn site* to activate the website
 6. navigate to your folders/files and go to address *target/site/index.html* or *build-jar-...* files
 7. run binary calculator in terminal with command: *java -jar target/BinaryCalculator-1.0.0-jar-with-dependencies.jar*
+
